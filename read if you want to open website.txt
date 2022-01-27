@@ -1,0 +1,13 @@
+This project uses WAMP server as backend storage for data, thus to open our website, please follow these instructions:
+
+1. Download WAMP server at: https://sourceforge.net/projects/wampserver/files/
+
+2. Open WAMP server.
+
+3. Click on WAMP server icon in your taskbar and open phpMyAdmin. Click login
+
+4. Import the logins.sql file.
+
+5. Move the rest of the folder (all items in Odin's Eye file) into a folder under C:\wamp64\www\
+
+6. Open the php files in your browser using any IDE.
